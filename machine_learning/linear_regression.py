@@ -1,5 +1,5 @@
 """
-Linear regression is the most basic type of regression commonly used for
+Linear regression is the most basic type of regression and commonly used for
 predictive analysis. The idea is pretty simple: we have a dataset and we have
 features associated with it. Features should be chosen very cautiously
 as they determine how much our model will be able to make future predictions.
